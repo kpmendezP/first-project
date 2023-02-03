@@ -2,3 +2,4 @@
 
 hola git
 hola mundo
+git add hola mundo
